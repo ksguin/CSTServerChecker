@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CST Server Checker</string>
+    <string name="status">Check Status</string>
+    <string name="enter_server_ip">Enter Server IP</string>
+    <string name="unreachable">SERVER NOT REACHABLE</string>
+    <string name="reachable">SERVER UP AND RUNNING</string>
+    <string name="connect_wifi_msg">You MUST connect to Wi-Fi before proceeding.</string>
+    <string name="input_proper_IP">IP contains numbers from 0 to 255</string>
+    <string name="net_unreachable">Destination Net Unreachable</string>
+    <string name="cant_transmit_back">PROBLEM CHECKING STATUS</string>
+    <string name="loading">Loading…Please be patient</string>
+</resources>

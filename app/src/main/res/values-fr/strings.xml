@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CST Server Checker</string>
+    <string name="enter">Entrez IP du serveur</string>
+    <string name="status">Vérifier l\'État</string>
+    <string name="connect_wifi_msg">Vous devez vous connecter à Wi-Fi avant de procéder.</string>
+    <string name="input_proper_IP">IP contient des numéros de 0 à 255</string>
+    <string name="unreachable">Serveur non accessible</string>
+    <string name="reachable">Serveur en cours d\'exécution</string>
+    <string name="cant_transmit_back">État du problème de vérification</string>
+</resources>
